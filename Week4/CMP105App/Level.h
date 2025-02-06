@@ -20,6 +20,16 @@ public:
 private:
 	// Level objects
 	GameObject testSprite;
+	GameObject coolDuck;
+	GameObject UmaThurman;
+	GameObject Bazinga;
+	GameObject Explosion;
+	GameObject Background;
 	sf::Texture texture;
+	sf::Texture DuckTexture;
+	sf::Texture UmaTexture;
+	sf::Texture BazingaTexture;
+	sf::Texture ExplodeTexture;
+	sf::Texture BackgroundTexture;
 
 };
